@@ -1,3 +1,6 @@
 [submodule "ov-web"]
 	path = ov-web
 	url = https://github.com/obfuscatedgeek/ov-web
+[submodule "ov-api"]
+	path = ov-api
+	url = https://github.com/obfuscatedgeek/ov-api
